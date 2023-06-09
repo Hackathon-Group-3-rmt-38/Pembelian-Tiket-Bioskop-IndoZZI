@@ -1,4 +1,4 @@
-# Patch-ver.1.1-release
+# patch-ver.1.1-release
 
 NOTE :
 - Push origin secara terpisah ( Gunakan branch masing-masing. Jangan branch main / master )
